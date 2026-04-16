@@ -6,12 +6,8 @@ End-to-end data analysis project using Python, SQL, and Tableau to evaluate vend
 ## Objectives
 - Identify top-performing vendors  
 - Detect low-performing vendors  
-<<<<<<< HEAD
-- Analyze profit and freight cost impact  
-
-=======
 - Analyze the impact of profit and freight cost
->>>>>>> d31d52c0929a9bd9b2f525ae4d613f9fb1776528
+
 ## Tools Used
 - Python (Pandas)
 - SQL
