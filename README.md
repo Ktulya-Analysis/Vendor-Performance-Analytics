@@ -23,8 +23,4 @@ End-to-end data analysis project using Python, SQL, and Tableau to evaluate vend
 - Some vendors maintain balanced performance with both high sales and strong profit margins, making them ideal for long-term partnerships.
 - Data analysis revealed opportunities to optimize vendor selection by focusing on high-margin and low-cost vendors.
 - Outlier vendors with unusually high costs or low returns were identified, which may require further investigation.
-<<<<<<< HEAD
-=======
- 
 
->>>>>>> d31d52c0929a9bd9b2f525ae4d613f9fb1776528
