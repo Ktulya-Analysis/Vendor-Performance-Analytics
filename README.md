@@ -15,7 +15,7 @@ End-to-end data analysis project using Python, SQL, and Tableau to evaluate vend
 - Tableau
 
 
-![Correlation Insights](images/correlation_insights.png)
+![Correlation Insights](images/correlation_Heatmap.png)
 
 Purchase Price vs. Total Sales Dollars & Gross Profit  
 Weak correlation (-0.012 and -0.016), indicating that price variations do not significantly impact sales revenue or profit.  
@@ -41,6 +41,6 @@ Weak negative correlation (-0.038 & -0.055), indicating that faster stock turnov
 - Outlier vendors with unusually high costs or low returns were identified, which may require further investigation.
 
 
-![Vendor Contribution](images/vendor_contribution_piechart.png)
+![Vendor Contribution](images/vendor_contribution.png)
 
 ![Profit vs Sales](images/profit_vs_sales.png)
